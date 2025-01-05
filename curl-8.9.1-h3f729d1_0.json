@@ -1,0 +1,36 @@
+{
+  "build": "h3f729d1_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libcurl 8.9.1 h0416ee5_0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\curl-8.9.1-h3f729d1_0",
+  "files": [
+    "Library/bin/curl.exe",
+    ".nonadmin"
+  ],
+  "fn": "curl-8.9.1-h3f729d1_0.conda",
+  "license": "curl",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\curl-8.9.1-h3f729d1_0",
+    "type": 1
+  },
+  "md5": "3c9fa5e183dc9e79f018854cc1d2d958",
+  "name": "curl",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\curl-8.9.1-h3f729d1_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::curl==8.9.1=h3f729d1_0[md5=3c9fa5e183dc9e79f018854cc1d2d958]",
+  "sha256": "9324cfba495975aa63c87c4e8756210e1e0beb4e9f39c2d99a42fe20b9be1d49",
+  "size": 179737,
+  "subdir": "win-64",
+  "timestamp": 1725033478000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/curl-8.9.1-h3f729d1_0.conda",
+  "version": "8.9.1"
+}
